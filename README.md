@@ -18,7 +18,7 @@ Used Python and HTML to add the code created above to the scraping.py file, upda
 To see how this was done, please refer to the following files:
 * [Mission_to_Mars_Challenge](Mission_to_Mars_Challenge.py)
 * [scraping](scraping.py)
-* [index][templates/index.html]
+* [index](templates/index.html)
 * [app](app.py)
 
 ### Added Bootstrap 3 Components 
@@ -28,7 +28,7 @@ The two additional Boostrap components include:
 * Styled the Scrape Button 
 * Added the hemisphere images as thumbnails
 
-For more information on how this was done, see [index][templates/index.html]
+For more information on how this was done, see [index](templates/index.html)
 
 
 ## Results 
